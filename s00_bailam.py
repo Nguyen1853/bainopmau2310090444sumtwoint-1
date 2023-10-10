@@ -30,5 +30,5 @@ sumtwoint(None, None) | None
 def sumtwoint(i1, i2):
   t = i1 + i2
   return t
-print(sum)
+
 #endregion bailam
