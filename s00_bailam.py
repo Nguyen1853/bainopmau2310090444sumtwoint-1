@@ -28,5 +28,10 @@ sumtwoint(None, None) | None
 
 #region bailam
 def sumtwoint(i1, i2):
-  return 'todo'
+  t = i1 + i2
+  return t
+i1 = int(input('Nhap so i1 >  '))
+i2 = int(input('Nhap so i2 >  '))
+sum = sumtwoint(i1, i2)
+print(sum)
 #endregion bailam
